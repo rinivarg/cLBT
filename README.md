@@ -1,6 +1,7 @@
-# cLBT
+# Computerized Line Bisection Test (cLBT)
+Rini Varghese, Jasmine Ma, Carolee Winstein
 
-A computerized version of the Schenkenberg Line Bisection Test to assess spatial neglect.
+Welcome to the GitHub page for the computerized version of the Schenkenberg Line Bisection Test to assess spatial neglect.
 
 ![](images/lbt_img.png)
 
