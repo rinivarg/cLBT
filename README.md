@@ -1,6 +1,7 @@
 # cLBT
 
-A computerized version of the Schenkenberg Line Bisection Test to assess spatial neglect.![](images/lbt_img.png)
+A computerized version of the Schenkenberg Line Bisection Test to assess spatial neglect.
+![](images/lbt_img.png)
 
 ## Pre-requisites
 First download MATLAB Runtime from here: https://www.mathworks.com/products/compiler/matlab-runtime.html <br>
