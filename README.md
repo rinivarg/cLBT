@@ -22,7 +22,7 @@ As shown below, open the *R2019a (9.6) version suited to your platform (Mac, Win
 Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
 ## Step 4: The app is ready for use. 
-The app thumbnail looks something like this: ![](images/app_tn.png)
+The app thumbnail looks something like this: ![](images/app_tn.png)<br>
 Open and follow instructions!
 ****
 # What does the app look like?
