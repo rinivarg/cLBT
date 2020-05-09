@@ -48,7 +48,7 @@ Open and follow instructions!
 6) Draw a short vertical line to indicate your response (like below):
 ![](images/mrkd_trial.png)
 7) After you have completed all the trials, you will see a summary figure (like below) and a "Thank you" message. 
-![](images/summ_fig.png)
+![](images/summ_fig.png)<br>
 Your output data folder is saved on your Desktop with the following name: "LBT_yourID_yourGender"
 8) The app will close when you close these windows.
 
