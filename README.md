@@ -18,10 +18,9 @@
 - Follow steps for installation.
 
 ## Step 3: Download the cLBT.zip file
-**Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
-<img src="images/dwld_zip.png" width = "700">
-
-Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
+- **Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
+	<img src="images/dwld_zip.png" width = "700">
+- Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
 ## Step 4: The app is ready for use. 
 - The thumbnail for the app looks like this: <br>
