@@ -1,7 +1,7 @@
 # Computerized Line Bisection Test (cLBT)
 *Rini Varghese, Jasmine Ma, Carolee Winstein*<br><br>
 **Welcome to the GitHub page for the computerized version of the Computerized Line Bisection Test** 
-<img src="images/img_lbt_2.png" width = "700"><br>
+<img src="images/img_lbt_2.png" align = "middle" width = "750">
 
 # Instructions for setup
 <details>
