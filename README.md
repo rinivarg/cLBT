@@ -104,5 +104,5 @@ The output folder saved within the *Desktop* folder and contains the following f
 	  publisher = {GitHub},
 	  journal = {GitHub repository},
 	  howpublished = {\url{https://github.com/rinivarg/cLBT}},
-	  commit = {}
+	  commit = {#f0e58f2}
 	}
