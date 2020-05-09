@@ -71,7 +71,13 @@
 8) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
 		<img src="images/crosshair.png" width = "400">
 9) Draw a short vertical line to indicate your response (see below):<br>
-		<img src="images/mrkd_trial.png" width = "400">
+		<img src="images/mrkd_trial.png" width = "400"><br>
+		
+<video width="618" height="347" controls preload> 
+    <source src="lbt_small_vid.mp4" media="only screen and (min-device-width: 568px)"></source>
+    <source src="lbt_small_vid.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+</video>
+
 10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
 		<img src="images/summ_fig.png" width = "300">
 11) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
