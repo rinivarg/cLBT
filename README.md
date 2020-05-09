@@ -39,7 +39,7 @@
 
 # How does the app work?
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand</summary><br>
 	
 1) Open the app. 
 2) Note that sometimes the app takes a few seconds to open up. Please be patient.
