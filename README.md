@@ -39,7 +39,7 @@
 
 # How does the app work?
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand</summary><br>
 	
 1) Open the app. 
 2) Note that sometimes the app takes a few seconds to open up. Please be patient.
@@ -48,11 +48,11 @@
 		<img src="images/consent_q.png" width = "400">
 5) Once you have entered your choice, dialog box asking for 3 inputs:<br>
 		<img src="images/data_name.png" width = "200"><br>
-		a. **Enter an appropriate ID.**
+		(1) **Enter an appropriate ID.**
 			Remember this ID will be the Participant ID in your data output file. <br>
-		b. **Enter Gender.**
+		(2) **Enter Gender.**
 			Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)<br>
-		c. **Enter Number of Trials.**
+		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
 6) Click **OK**
