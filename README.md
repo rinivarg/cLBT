@@ -6,7 +6,7 @@
 
 # Instructions for setup
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 	
 ## Step 1: Download MATLAB Runtime 
 - The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components. <br>
@@ -29,8 +29,10 @@
 - The thumbnail for the app looks like this: <br>
 	<img src="images/app_tn.png" width = "70"> <br>
 - Open and follow instructions!
-</details>
 ****
+</details> <br>
+
+
 # Before you begin using the app:
 
 ***
