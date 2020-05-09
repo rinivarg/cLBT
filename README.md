@@ -72,10 +72,10 @@
 		<img src="images/crosshair.png" width = "400">
 9) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/mrkd_trial.png" width = "400"><br>
-		
+
 <video width="618" height="347" controls preload> 
-    <source src="lbt_small_vid.mp4" media="only screen and (min-device-width: 568px)"></source>
-    <source src="lbt_small_vid.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+    <source src="images/lbt_small_vid.mp4" media="only screen and (min-device-width: 568px)"></source>
+    <source src="images/lbt_small_vid.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
 </video>
 
 10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
