@@ -82,3 +82,6 @@ The output folder saved within the *Desktop* folder and contains the following f
 - **LBT_[yourID_yourGender_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.	
 ****
 </details> 
+
+## References<br>
+1. **Schenkenberg T, Bradford DC, Ajax ET.** Line bisection and unilateral visual neglect in patients with neurologic impairment. *Neurology.* 1980;30:509–17. 
