@@ -41,38 +41,35 @@
 # How does the app work?
 <details>
   <summary>Click to expand</summary>
+	
 1) Open the app. 
 2) Note that sometimes the app takes a few seconds to open up. Please be patient.
 3) You should see a *Welcome* message.
 4) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
-<img src="images/consent_q.png" width = "400"><br>
+		<img src="images/consent_q.png" width = "400"><br>
 5) Once you have entered your choice, dialog box asking for 3 inputs:<br>
-<img src="images/data_name.png" width = "200"><br>
-
-	1. **Enter an appropriate ID.**
-		- Remember this ID will be the Participant ID in your data output file. 
-	2. **Enter Gender.**
-		- Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)
-	3. **Enter Number of Trials.**
-		- You can use any whole number starting from 1. 
-		- It is advisable to use at least 10 trials, but you can use more. <br>
-4) Click **OK**
-5) Next, you will see the instructions for the task:<br>
-<img src="images/instr.png" width = "500"><br>
-
-5) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
-<img src="images/crosshair.png" width = "400"><br>
-
-6) Draw a short vertical line to indicate your response (see below):<br>
-<img src="images/mrkd_trial.png" width = "400"><br>
-
-7) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
-<img src="images/summ_fig.png" width = "300"><br>
-
-8) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
-9) The app will close when you close these windows.
+		<img src="images/data_name.png" width = "200"><br>
+		1. **Enter an appropriate ID.**
+			- Remember this ID will be the Participant ID in your data output file. 
+		2. **Enter Gender.**
+			- Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)
+		3. **Enter Number of Trials.**
+			- You can use any whole number starting from 1. 
+			- It is advisable to use at least 10 trials, but you can use more. <br>
+6) Click **OK**
+7) Next, you will see the instructions for the task:<br>
+		<img src="images/instr.png" width = "500"><br>
+8) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+		<img src="images/crosshair.png" width = "400"><br>
+9) Draw a short vertical line to indicate your response (see below):<br>
+		<img src="images/mrkd_trial.png" width = "400"><br>
+10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
+		<img src="images/summ_fig.png" width = "300"><br>
+11) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
+12) The app will close when you close these windows.
 ****
-</details> 
+</details> <br>
+
 # What does the output folder contain?
 <details>
   <summary>Click to expand</summary>
