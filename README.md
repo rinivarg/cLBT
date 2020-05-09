@@ -72,5 +72,13 @@
 # What does the output folder contain?
 <details>
   <summary>Click to expand</summary>
+
+The output folder saved within the *Desktop* folder contains 1 summary image (.tiff), 2 plain text files containing the data (.txt), 1 MATLAB data file (.mat), 1 plain text log file (.txt), and finally, raw image files for each trial (.jpeg). Below are more details:
+	1) **00a_LBT_summary.tiff** This is the summary image file that you see at the end of the test.
+	2) **00b_Average_Report_[LBT_yourID_yourGender]** This file contains the average absolute and percent deviation across all trials.
+	3) **00b_TrialWise_Report_[LBT_yourID_yourGender]** This file containts the trial-wise absolute and percent deviations across all trials.
+	4) **[LBT_yourID_yourGender]** Contains raw trial-wise data with x and y cursor position data in a .mat file.
+	5) **log_mm-dd-yyyy-hh-mm** Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the average and standard deviation info.
+	
 ****
 </details> 
