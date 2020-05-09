@@ -46,16 +46,16 @@ Note that some computers are set up to automatically unzip the downloaded file. 
 		- It is advisable to use at least 10 trials, but you can use more. <br>
 4) Click **OK**
 5) Next, you will see the instructions for the task:<br>
-<img src="images/instr.png" width = "400"><br>
+<img src="images/instr.png" width = "500"><br>
 
 5) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
-<img src="images/crosshair.png" width = "200"><br>
+<img src="images/crosshair.png" width = "400"><br>
 
 6) Draw a short vertical line to indicate your response (see below):<br>
-<img src="images/mrkd_trial.png" width = "200"><br>
+<img src="images/mrkd_trial.png" width = "400"><br>
 
 7) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
-<img src="images/summ_fig.png" width = "200"><br>
+<img src="images/summ_fig.png" width = "300"><br>
 
 8) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
 9) The app will close when you close these windows.
