@@ -55,7 +55,7 @@
 2) You should see a *Welcome* message.
 3) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
 		<img src="images/consent_q.png" width = "400">
-4) Once you have entered your choice, dialog box asking for 3 inputs:<br>
+4) Once you have entered your choice, a dialog box appears asking for 3 required inputs:<br>
 		<img src="images/data_name.png" width = "200"><br>
 		(1) **Enter an appropriate ID.**
 			Remember this ID will be the Participant ID in your data output file. <br>
