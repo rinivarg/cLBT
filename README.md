@@ -95,3 +95,14 @@ The output folder saved within the *Desktop* folder and contains the following f
 
 ## References<br>
 1. **Schenkenberg T, Bradford DC, Ajax ET.** Line bisection and unilateral visual neglect in patients with neurologic impairment. *Neurology.* 1980;30:509–17. 
+
+## How to cite this?
+	@misc{Varghese2020,
+	  author = {Varghese, Rini, Ma, Jasmine, and Winstein, Carolee},
+	  title = {A Computerized Version of the Line Bisection Test},
+	  year = {2020},
+	  publisher = {GitHub},
+	  journal = {GitHub repository},
+	  howpublished = {\url{https://github.com/rinivarg/cLBT}},
+	  commit = {}
+	}
