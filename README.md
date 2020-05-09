@@ -75,7 +75,7 @@
 	
 The output folder saved within the *Desktop* folder and contains the following files: <br>
 - **00a_LBT_summary.tiff**<br>This is the summary image file that you see at the end of the test.<br>
-- **00b_Average_Report_LBT_[yourID_yourGender].txt**<br>This file contains the average absolute and percent deviation across all trials.<br>
+- **00b_Average_Report_LBT_[yourID_yourGender].txt**<br>This file contains the average absolute and percent deviation across all trials. It also contains the total time taken to complete the test (in seconds). <br>
 - **00b_TrialWise_Report_LBT_[yourID_yourGender].txt**<br>This file containts the trial-wise absolute and percent deviations across all trials.<br>
 - **LBT_[yourID_yourGender].mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
 - **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the average and standard deviation info.<br>
