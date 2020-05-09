@@ -1,10 +1,12 @@
 # Computerized Line Bisection Test (cLBT)
 *Rini Varghese, Jasmine Ma, Carolee Winstein*<br><br>
-**Welcome to the GitHub page for the computerized version of the Schenkenberg Line Bisection Test to assess spatial neglect.**
-
-![](images/lbt_img.png)
+<img src="images/lbt_img.png" align="right">
+**Welcome to the GitHub page for the computerized version of <br> the Schenkenberg Line Bisection Test to assess spatial neglect.** 
 
 # Instructions for setup
+<details>
+  <summary>Click to expand</summary>
+	
 ## Step 1: Download MATLAB Runtime 
 - The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components. <br>
 - Note, however, that the Runtime file is quite large (1.5-1.7GB).<br>
@@ -18,45 +20,57 @@
 - Follow steps for installation.
 
 ## Step 3: Download the cLBT.zip file
-**Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
-<img src="images/dwld_zip.png" width = "700">
-
-Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
+- **Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
+	<img src="images/dwld_zip.png" width = "700">
+- Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
 ## Step 4: The app is ready for use. 
 - The thumbnail for the app looks like this: <br>
 	<img src="images/app_tn.png" width = "70"> <br>
 - Open and follow instructions!
 ****
-# What does the app look like?
+</details> 
+
+# Before you begin using the app:
+<details>
+  <summary>Click to expand</summary>
+****
+</details> 
+
+# How does the app work?
+<details>
+  <summary>Click to expand</summary>
+	
 1) Open the app. 
 2) Note that sometimes the app takes a few seconds to open up. Please be patient.
 3) You should see a *Welcome* message.
 4) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
-<img src="images/consent_q.png" width = "400"><br>
+		<img src="images/consent_q.png" width = "400">
 5) Once you have entered your choice, dialog box asking for 3 inputs:<br>
-<img src="images/data_name.png" width = "200"><br>
+		<img src="images/data_name.png" width = "200"><br>
+		a. **Enter an appropriate ID.**
+			Remember this ID will be the Participant ID in your data output file. <br>
+		b. **Enter Gender.**
+			Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)<br>
+		c. **Enter Number of Trials.**
+			You can use any whole number starting from 1. 
+			It is advisable to use at least 10 trials, but you can use more.
+6) Click **OK**
+7) Next, you will see the instructions for the task:<br>
+		<img src="images/instr.png" width = "500">
+8) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+		<img src="images/crosshair.png" width = "400">
+9) Draw a short vertical line to indicate your response (see below):<br>
+		<img src="images/mrkd_trial.png" width = "400">
+10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
+		<img src="images/summ_fig.png" width = "300">
+11) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
+12) The app will close when you close these windows.
+****
+</details> 
 
-	1. **Enter an appropriate ID.**
-		- Remember this ID will be the Participant ID in your data output file. 
-	2. **Enter Gender.**
-		- Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)
-	3. **Enter Number of Trials.**
-		- You can use any whole number starting from 1. 
-		- It is advisable to use at least 10 trials, but you can use more. <br>
-4) Click **OK**
-5) Next, you will see the instructions for the task:<br>
-<img src="images/instr.png" width = "400"><br>
-
-5) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
-<img src="images/crosshair.png" width = "200"><br>
-
-6) Draw a short vertical line to indicate your response (see below):<br>
-<img src="images/mrkd_trial.png" width = "200"><br>
-
-7) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
-<img src="images/summ_fig.png" width = "200"><br>
-
-8) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
-9) The app will close when you close these windows.
-
+# What does the output folder contain?
+<details>
+  <summary>Click to expand</summary>
+****
+</details> 
