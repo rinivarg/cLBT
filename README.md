@@ -27,7 +27,10 @@
 	<img src="images/app_tn.png" width = "70"> <br>
 - Open and follow instructions!
 ****
-# What does the app look like?
+# Before you begin using the app:
+
+***
+# How does the app work?
 1) Open the app. 
 2) Note that sometimes the app takes a few seconds to open up. Please be patient.
 3) You should see a *Welcome* message.
@@ -58,4 +61,5 @@
 
 8) Your output data folder is saved on your Desktop with the following name: **[LBT_yourID_yourGender]**<br>
 9) The app will close when you close these windows.
-
+***
+# What does the output folder contain?
