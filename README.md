@@ -5,10 +5,9 @@ Welcome to the GitHub page for the computerized version of the Schenkenberg Line
 ![](images/lbt_img.png)
 
 # Instructions for setup
-## Pre-requisites
-First download MATLAB Runtime from here: https://www.mathworks.com/products/compiler/matlab-runtime.html <br>
-This is not a full rendering of MATLAB and is free. Only to run the program.
+## Step 1: Download MATLAB Runtime 
+**Open this link in a new tab:** https://www.mathworks.com/products/compiler/matlab-runtime.html <br>
+The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components. Note, however, that the Runtime file is quite large (1.5-1.7GB)
+![](images/mcr_version_img.png)
 
-#  This is a title
-## this is a subtitle
-### paragraph
+## Step 2: Download the 
