@@ -51,12 +51,11 @@
 <details>
   <summary>Click to expand</summary><br>
 	
-1) Open the app. 
-2) Note that sometimes the app takes a few seconds to open up. Please be patient.
-3) You should see a *Welcome* message.
-4) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
+1) Open the app. Note that sometimes the app takes a few seconds to open up. Please be patient.
+2) You should see a *Welcome* message.
+3) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
 		<img src="images/consent_q.png" width = "400">
-5) Once you have entered your choice, dialog box asking for 3 inputs:<br>
+4) Once you have entered your choice, dialog box asking for 3 inputs:<br>
 		<img src="images/data_name.png" width = "200"><br>
 		(1) **Enter an appropriate ID.**
 			Remember this ID will be the Participant ID in your data output file. <br>
@@ -65,12 +64,12 @@
 		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
-6) Click **OK**
-7) Next, you will see the instructions for the task:<br>
+5) Click **OK**
+6) Next, you will see the instructions for the task:<br>
 		<img src="images/instr.png" width = "500">
-8) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+7) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
 		<img src="images/crosshair.png" width = "400">
-9) Draw a short vertical line to indicate your response (see below):<br>
+8) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/mrkd_trial.png" width = "400"><br>
 
 <video width="618" height="347" controls preload> 
@@ -78,10 +77,10 @@
     <source src="images/lbt_small_vid.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
 </video>
 
-10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
+9) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
 		<img src="images/summ_fig.png" width = "300">
-11) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
-12) The app will close when you close these windows.
+10) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
+11) The app will close when you close these windows.
 ****
 </details> 
 
