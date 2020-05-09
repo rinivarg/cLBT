@@ -33,7 +33,17 @@
 
 # How to administer the test?
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand</summary><br>
+	
+1) **Screen:** The screen should be at least 15" in size and is placed 2 feet away (depending on the size of your screen).
+3) **Hand:** Use the right (or left) hand. It is advisable to use the hand which you think is proficient at using the computer mouse. Stroke surviovrs use their less-weaker hand. The other hand must rest on the lap.
+2) **Mouse:** It is advisable to use a wired or wireless mouse to use the pen tool instead of the trackpad of a laptop. Press and hold the left mouse key to activate the pen tool. Wait for the crosshairs to appear before you begin.
+4) **Instructions:** Must include the following elements:
+	- For each horizontal line in half by drawing a small vertical line through each line as close to its center as possible. 
+	- You are only allowed a single try per line. Try to be as accurate as you can.
+	- Mark on every line the best you can, without skipping.
+	- Do not move the screen closer or to any one side.
+
 ****
 </details> 
 
