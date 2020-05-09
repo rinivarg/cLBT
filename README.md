@@ -13,6 +13,12 @@ As shown below, open the *R2019a (9.6) version suited to your platform (Mac, Win
 
 ## Step 2: Install the MATLAB Runtime
 
-## Step 3: Download the cLBT app
-Found here: [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition)
+## Step 3: Download the cLBT.zip file
+**Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip)
+![](images/dwld_zip.png)
+Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
+
+## Step 4: The app is ready for use. Open and follow instructions!
+
+# What does the app look like?
 
