@@ -31,7 +31,7 @@
 ****
 </details> 
 
-# Before you begin using the app:
+# How to administer the test?
 <details>
   <summary>Click to expand</summary>
 ****
