@@ -64,21 +64,21 @@
 		<img src="images/mrkd_trial.png" width = "400">
 10) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
 		<img src="images/summ_fig.png" width = "300">
-11) Your output data folder is saved on your *Desktop* with the following name: **[LBT_yourID_yourGender]**<br>
+11) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
 12) The app will close when you close these windows.
 ****
 </details> 
 
 # What does the output folder contain?
 <details>
-  <summary>Click to expand</summary>
-
-The output folder saved within the *Desktop* folder contains 1 summary image (.tiff), 2 plain text files containing the data (.txt), 1 MATLAB data file (.mat), 1 plain text log file (.txt), and finally, raw image files for each trial (.jpeg). Below are more details: <br>
-	1) **00a_LBT_summary.tiff** This is the summary image file that you see at the end of the test.<br>
-	2) **00b_Average_Report_[LBT_yourID_yourGender]** This file contains the average absolute and percent deviation across all trials.<br>
-	3) **00b_TrialWise_Report_[LBT_yourID_yourGender]** This file containts the trial-wise absolute and percent deviations across all trials.<br>
-	4) **[LBT_yourID_yourGender]** Contains raw trial-wise data with x and y cursor position data in a .mat file.<br>
-	5) **log_mm-dd-yyyy-hh-mm** Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the average and standard deviation info.<br>
+  <summary>Click to expand</summary><br>
 	
+The output folder saved within the *Desktop* folder and contains the following files: <br>
+- **00a_LBT_summary.tiff**<br>This is the summary image file that you see at the end of the test.<br>
+- **00b_Average_Report_LBT_[yourID_yourGender].txt**<br>This file contains the average absolute and percent deviation across all trials.<br>
+- **00b_TrialWise_Report_LBT_[yourID_yourGender].txt**<br>This file containts the trial-wise absolute and percent deviations across all trials.<br>
+- **LBT_[yourID_yourGender].mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
+- **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the average and standard deviation info.<br>
+- **LBT_[yourID_yourGender_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.	
 ****
 </details> 
