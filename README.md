@@ -8,12 +8,12 @@
 ## Step 1: Download MATLAB Runtime 
 The MATLAB Runtime is a standalone set of shared libraries that enables the execution of compiled MATLAB applications or components. Note, however, that the Runtime file is quite large (1.5-1.7GB)
 **Right-Click on this link and open in a new tab:** https://www.mathworks.com/products/compiler/matlab-runtime.html <br>
-As shown below, open the *R2019a (9.6) version suited to your platform (Mac, Windows, or Linux)
+As shown below, open the *R2019a (9.6)* version suited to your platform (Mac, Windows, or Linux)
 ![](images/mcr_version_img.png)
 
 ## Step 2: Install the MATLAB Runtime
 - Double-Click on the downloaded MATLAB Runtime file from your Downloads folder. 
-![](images/install_mcr.png)
+<img src="images/install_mcr.png" width = "500">
 - Follow steps for installation.
 
 ## Step 3: Download the cLBT.zip file
