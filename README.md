@@ -58,9 +58,9 @@
 4) Once you have entered your choice, a dialog box appears asking for 3 required inputs:<br>
 		<img src="images/data_name.png" width = "200"><br>
 		(1) **Enter an appropriate ID.**
-			Remember this ID will be the Participant ID in your data output file. <br>
+			This ID will be the Participant ID in your data output file. <br>
 		(2) **Enter Gender.**
-			Advisable to use a single letter: M (Male), F (Female), or N (Not disclosed)<br>
+			Use a single letter: M (Male), F (Female), or N (Not disclosed). This will also be a part of the generated ID<br>
 		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
