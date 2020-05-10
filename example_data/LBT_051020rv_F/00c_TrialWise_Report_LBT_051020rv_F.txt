@@ -1,0 +1,16 @@
+PID,Trial,Abs_Dev,Perc_Dev,WorkspaceX,WorkspaceY
+051020rv,trial1,-0.045,-0.9,right,bottom
+051020rv,trial2,0.008,0.15,left,bottom
+051020rv,trial3,-0.028,-0.56,center,top
+051020rv,trial4,-0.225,-4.49,left,middle
+051020rv,trial5,0.08,1.6,right,bottom
+051020rv,trial6,-0.238,-4.77,left,bottom
+051020rv,trial7,-0.059,-1.18,right,middle
+051020rv,trial8,0.26,5.21,right,top
+051020rv,trial9,-0.104,-2.07,center,bottom
+051020rv,trial10,0.177,3.54,right,bottom
+051020rv,trial11,0.047,0.94,center,top
+051020rv,trial12,0.163,3.26,right,bottom
+051020rv,trial13,0.01,0.21,right,bottom
+051020rv,trial14,0.108,2.15,right,middle
+051020rv,trial15,-0.367,-7.34,center,top
