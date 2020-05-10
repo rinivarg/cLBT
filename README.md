@@ -60,7 +60,7 @@
 		(1) **Enter an appropriate ID.**
 			This ID will be the Participant ID in your data output file. <br>
 		(2) **Enter Gender.**
-			Use a single letter: M (Male), F (Female), or N (Not disclosed). This will also be a part of the generated ID<br>
+			Use a single letter: M (Male), F (Female), or N (Not disclosed). <br>
 		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
