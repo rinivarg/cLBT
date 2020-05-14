@@ -22,12 +22,24 @@
 ## Step 3: Download the cLBT.zip file
 - **Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
 	<img src="images/dwld_zip.png" width = "700">
+- This file is approximately 23 MB
 - Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
 ## Step 4: The app is ready for use. 
 - The thumbnail for the app looks like this: <br>
 	<img src="images/app_tn.png" width = "70"> <br>
 - Open and follow instructions!
+
+## Note:
+- When you open the app, if you see a message like below due to your computer's firewall settings, please click ***Cancel***: <br>
+	<img src="images/firewall_msg.png" width = "500"> <br>
+
+- Then, similar to other apps that you might use, please grant permission to open the app by going to Settings or System Preferences. <br> 
+On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking on ***Open Anyway*** <br>
+	<img src="images/open_anyway.png" width = "500"> <br>
+	
+- In the message box, confirm by clicking ***Open***
+
 ****
 </details> 
 
@@ -53,9 +65,7 @@
 	
 1) Open the app. Note that sometimes the app takes a few seconds to open up. Please be patient.
 2) You should see a *Welcome* message.
-3) After you click **OK**, you will be asked if you are willing to share your data with us:<br>
-		<img src="images/consent_q.png" width = "400">
-4) Once you have entered your choice, a dialog box appears asking for 3 required inputs:<br>
+3) After you click **OK**, a dialog box appears asking for 3 required inputs:<br>
 		<img src="images/data_name.png" width = "200"><br>
 		(1) **Enter an appropriate ID.**
 			This ID will be the Participant ID in your data output file. <br>
@@ -64,23 +74,17 @@
 		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
-5) Click **OK**
-6) Next, you will see the instructions for the task:<br>
+4) Click **OK**
+5) Next, you will see the instructions for the task:<br>
 		<img src="images/instr.png" width = "500">
-7) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+6) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
 		<img src="images/crosshair.png" width = "400">
-8) Draw a short vertical line to indicate your response (see below):<br>
+7) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/mrkd_trial.png" width = "400"><br>
-
-<video width="618" height="347" controls preload> 
-    <source src="images/lbt_small_vid.mp4" media="only screen and (min-device-width: 568px)"></source>
-    <source src="images/lbt_small_vid.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
-</video>
-
-9) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
+8) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
 		<img src="images/summ_fig.png" width = "300">
-10) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
-11) The app will close when you close these windows.
+9) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
+10) The app will close when you close these windows.
 ****
 </details> 
 
