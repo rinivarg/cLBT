@@ -74,15 +74,17 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		(3) **Enter Number of Trials.**
 			You can use any whole number starting from 1. 
 			It is advisable to use at least 10 trials, but you can use more.
-4) Click **OK**
-5) Next, you will see the instructions for the task:<br>
-		<img src="images/instr.png" width = "500">
-6) Next, you will see the first trial for the line bisection. Wait to see the cross-hairs (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
-		<img src="images/crosshair.png" width = "400">
+			Click **OK**. <br><br>
+4) Next, you will be prompted to ***Select*** a location to save your output files. 
+		<img src="images/output_fld.png" width = "400"><br><br>
+5) Once you have selected your desired location, you will see the instructions for the task:<br>
+		<img src="images/instr.png" width = "500"><br><br>
+6) You will now see the first trial for the line bisection. Wait for the cross-hairs to appear (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+		<img src="images/crosshair.png" width = "400"><br><br>
 7) Draw a short vertical line to indicate your response (see below):<br>
-		<img src="images/mrkd_trial.png" width = "400"><br>
+		<img src="images/mrkd_trial.png" width = "400"><br><br>
 8) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
-		<img src="images/summ_fig.png" width = "300">
+		<img src="images/summ_fig.png" width = "300"><br><br>
 9) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
 10) The app will close when you close these windows.
 ****
