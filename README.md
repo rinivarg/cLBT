@@ -85,7 +85,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		<img src="images/mrkd_trial.png" width = "400"><br><br>
 8) After you have completed all the trials, you will see a summary figure (see below) and a *Thank you* message.<br>
 		<img src="images/summ_fig.png" width = "300"><br><br>
-9) Your output data folder is saved on your *Desktop* with the following name: **LBT_[yourID_yourGender]**<br>
+9) Your output data folder is saved at the destinastion that you indicated at the start of the test and will be named: **LBT_[yourID_yourGender]**<br>
 10) The app will close when you close these windows.
 ****
 </details> 
@@ -94,7 +94,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 <details>
   <summary>Click to expand</summary><br>
 	
-The output folder saved within the *Desktop* folder and contains the following files: <br>
+The output folder contains the following files: <br>
 - **00a_LBT_summary.tiff**<br>This is the summary image file that you see at the end of the test.<br>
 - **00b_Average_Report_LBT_[yourID_yourGender].txt**<br>This file contains the average absolute and percent deviation across all trials. It also contains the total time taken to complete the test (in seconds). <br>
 - **00b_TrialWise_Report_LBT_[yourID_yourGender].txt**<br>This file containts the trial-wise absolute (in a.u.) and percent deviations across all trials. The trial-wise file also outputs two additional variables: WorkspaceX and WorkspaceY. These two variables define the quadrant in which the line appeared. For example, ***left*** (WorkspaceX) and ***bottom*** (WorkspaceY).<br>
