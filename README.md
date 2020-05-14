@@ -38,7 +38,7 @@
 On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking on ***Open Anyway*** <br>
 	<img src="images/open_anyway.png" width = "500"> <br>
 	
-- In the message box, confirm by clicking ***Open***
+- In the message box, confirm by clicking ***Open***. You will only need to grant this permission on the first use.
 
 ****
 </details> 
