@@ -79,7 +79,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		<img src="images/output_fld.png" width = "400"><br><br>
 5) Once you have selected your desired location, you will see the instructions for the task:<br>
 		<img src="images/instr.png" width = "500"><br><br>
-6) You will now see the first trial for the line bisection. Wait for the cross-hairs to appear (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+6) You will now see the first trial for the line bisection test. Wait for the cross-hairs to appear (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
 		<img src="images/crosshair.png" width = "400"><br><br>
 7) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/mrkd_trial.png" width = "400"><br><br>
