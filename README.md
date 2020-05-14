@@ -79,7 +79,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		<img src="images/output_fld.png" width = "400"><br><br>
 5) Once you have selected your desired location, you will see the instructions for the task:<br>
 		<img src="images/instr.png" width = "500"><br><br>
-6) You will now see the first trial for the line bisection. Wait for the cross-hairs to appear (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
+6) You will now see the first trial for the line bisection test. Wait for the cross-hairs to appear (see below) before you mark the midpoint of the horizontal line. Note that the horizontal line will appear in different quadrants of the screen.<br>
 		<img src="images/crosshair.png" width = "400"><br><br>
 7) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/mrkd_trial.png" width = "400"><br><br>
@@ -99,7 +99,7 @@ The output folder contains the following files: <br>
 - **00b_Average_Report_LBT_[yourID_yourGender].txt**<br>This file contains the average absolute and percent deviation across all trials. It also contains the total time taken to complete the test (in seconds). <br>
 - **00b_TrialWise_Report_LBT_[yourID_yourGender].txt**<br>This file containts the trial-wise absolute (in a.u.) and percent deviations across all trials. The trial-wise file also outputs two additional variables: WorkspaceX and WorkspaceY. These two variables define the quadrant in which the line appeared. For example, ***left*** (WorkspaceX) and ***bottom*** (WorkspaceY).<br>
 - **LBT_[yourID_yourGender].mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
-- **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the average and standard deviation info.<br>
+- **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the mean and sd of percent deviation from the center and total time taken to complete the test.<br>
 - **LBT_[yourID_yourGender_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.
 
 See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/master/example/LBT_051020rv_F)
