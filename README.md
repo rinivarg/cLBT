@@ -48,7 +48,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
   <summary>Click to expand</summary><br>
 	
 1) **Screen:** It is recommended to use a screen that is at least 15" in size and is placed 2 feet away (depending on the size of your screen).
-3) **Hand:** Use the right (or left) hand. It is advisable to use the hand which you think is proficient at using the computer mouse. Stroke surviovrs use their less-weaker hand. The other hand must rest on the lap.
+3) **Hand:** Use the right (or left) hand. It is advisable to use the hand which you think is proficient at using the computer mouse. Stroke surviovrs use their less-weaker hand while the other hand rests on the lap.
 2) **Mouse:** It is recommended to use a wired or wireless mouse to use the pen tool instead of the trackpad of a laptop. Press and hold the left mouse key to activate the pen tool. Wait for the crosshairs to appear before you begin.
 4) **Instructions:** Must include the following elements:
 	- For each horizontal line in half by drawing a small vertical line through each line as close to its center as possible. 
