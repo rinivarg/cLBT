@@ -18,6 +18,7 @@
 - Double-Click on the downloaded MATLAB Runtime file from your *Downloads* folder. 
 	<img src="images/install_mcr.png" width = "500">
 - Follow steps for installation.
+- Download and installation of the MATLAB Runtime file is only required the first time. 
 
 ## Step 3: Download the cLBT.zip file
 - **Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
