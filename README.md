@@ -20,10 +20,11 @@
 - Follow steps for installation.
 - Download and installation of the MATLAB Runtime file is only required the first time. 
 
-## Step 3: Download the cLBT.zip file
-- **Right-Click on this link and open in a new tab:** [Line Bisection Test App](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT.zip) <br>
+## Step 3: Download the cLBT App
+- **Right-Click to download the app suited to your platform (Mac or Windows):** <br> 
+	- [cLBT App for Mac](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Mac.zip) (approx. 23 MB)<br> 
+	- [cLBT App for Windows](https://github.com/rinivarg/cLBT/blob/master/acquisition/cLBT_Windows.exe.zip) (approx. 47 MB) <br><br>
 	<img src="images/dwld_zip.png" width = "700">
-- This file is approximately 23 MB
 - Note that some computers are set up to automatically unzip the downloaded file. If so, proceed to the next step. Otherwise, unzip the file.
 
 ## Step 4: The app is ready for use. 
