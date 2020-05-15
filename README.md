@@ -110,7 +110,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 
 ## Questions/Comments?<br>
 - If you have any questions or suggestions for improvement, please post them through Issues. <br>
-- You can also contact the first author directly at rinivarg@usc.edu.
+- You can also contact the first author directly at rinivarg_at_usc_dot_edu
 
 ## References<br>
 1. **Schenkenberg T, Bradford DC, Ajax ET.** [Line bisection and unilateral visual neglect in patients with neurologic impairment.](https://github.com/rinivarg/cLBT/blob/master/LBT_Schenkenberg_1980.pdf) *Neurology.* 1980;30:509–17. 
