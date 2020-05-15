@@ -1,6 +1,13 @@
 # Computerized Line Bisection Test (cLBT)
 *Rini Varghese, Jasmine Ma, Carolee Winstein*<br><br>
-**Welcome to the GitHub page for the computerized version of the Line Bisection Test** 
+**Welcome to the GitHub page for the computerized version of the Line Bisection Test** <br>
+The administration of this computerized line bisection test has **3 EASY STEPS**:
+ 1. Download and install the MATLAB Runtime file
+ 2. Dowload the cLBT app
+ 3. Administer the test!<br>
+	
+**See below for detailed instructions on setup and administration**<br>
+
 <img src="images/img_lbt_2.png" align = "middle" width = "750">
 
 # Instructions for setup
