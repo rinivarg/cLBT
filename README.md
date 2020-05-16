@@ -3,7 +3,7 @@
 **Welcome to the GitHub page for the computerized version of the Line Bisection Test!** <br><br>
 The administration of this test has **3 EASY STEPS**:
  1. Download and install the MATLAB Runtime file
- 2. Dowload the cLBT app
+ 2. Download the cLBT app
  3. Administer the test!<br>
 	
 **See below for detailed instructions on setup and administration**<br>
