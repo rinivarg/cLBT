@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/rinivarg.svg?label=@rinivarg&style=social)](https://twitter.com/rinivarg)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)<br>
 
 # Computerized Line Bisection Test (cLBT)
 *Rini Varghese, Jasmine Ma, Carolee Winstein*<br>
