@@ -119,9 +119,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 </details> 
 
 ## Questions/Comments?<br>
-- If you have any questions or suggestions for improvement, please post them through 
-[![Issues](https://img.shields.io/github/issues/rinivarg/cLBT)](https://github.com/rinivarg/cLBT/issues/new)<br>
-
+- If you have any questions or suggestions for improvement, please post them through ***Issues*** [![Issues](https://img.shields.io/github/issues/rinivarg/cLBT)](https://github.com/rinivarg/cLBT/issues/new)<br>
 - You can also contact the first author directly at rinivarg_at_usc_dot_edu <br>
 
 
