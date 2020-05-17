@@ -1,5 +1,5 @@
 # Computerized Line Bisection Test (cLBT)
-*Rini Varghese, Jasmine Ma, Carolee Winstein*<br>
+*Rini Varghese, Jasmine Ma, Carolee Winstein*<br><br>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=Follow%20%40rinivarg)](https://twitter.com/rinivarg)<br>
 
 **Welcome to the GitHub page for the computerized version of the Line Bisection Test!** <br><br>
