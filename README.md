@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)<br>
+[![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
 
 # Computerized Line Bisection Test (cLBT)
 *Rini Varghese, Jasmine Ma, Carolee Winstein*<br>
@@ -120,8 +120,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 
 ## Questions/Comments?<br>
 - If you have any questions or suggestions for improvement, please post them through ***Issues*** [![Issues](https://img.shields.io/github/issues/rinivarg/cLBT)](https://github.com/rinivarg/cLBT/issues/new)<br>
-- You can also contact the first author directly at rinivarg@usc.edu <br>
-
+- You can also contact the first author directly at rinivarg@usc.edu [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)<br>
 
 ## References<br>
 1. **Schenkenberg T, Bradford DC, Ajax ET.** [Line bisection and unilateral visual neglect in patients with neurologic impairment.](https://github.com/rinivarg/cLBT/blob/master/LBT_Schenkenberg_1980.pdf) *Neurology.* 1980;30:509–17. 
