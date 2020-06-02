@@ -128,7 +128,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 1. **Schenkenberg T, Bradford DC, Ajax ET.** [Line bisection and unilateral visual neglect in patients with neurologic impairment.](https://github.com/rinivarg/cLBT/blob/master/LBT_Schenkenberg_1980.pdf) *Neurology.* 1980;30:509–17. 
 
 ## How to cite this?
-**Varghese, R, Ma, J, and, Winstein CJ.** (May 9, 2020). A Computerized Version of the Line Bisection Test (v.1.2). GitHub. GitHub repository: https://github.com/rinivarg/cLBT/#667c1f6
+**Varghese, R, Ma, J, and, Winstein CJ.** (June 2, 2020). A Computerized Version of the Line Bisection Test (v.1.2). GitHub. GitHub repository: https://github.com/rinivarg/cLBT/#667c1f6
 
 	@misc{Varghese2020,
 	  author = {Varghese, Rini, Ma, Jasmine, and Winstein, Carolee},
