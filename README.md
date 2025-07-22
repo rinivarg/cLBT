@@ -121,7 +121,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 
 ## Questions/Comments?<br>
 - If you have any questions or suggestions for improvement, please post them through [![Issues](https://img.shields.io/github/issues/rinivarg/cLBT)](https://github.com/rinivarg/cLBT/issues/new)<br>
-- You can also contact the first author directly at rinivarg@usc.edu <br>
+- You can also contact the first author directly at rvarghe9@jhmi.edu <br>
 - Source code available upon request. <br>
 
 ## References<br>
