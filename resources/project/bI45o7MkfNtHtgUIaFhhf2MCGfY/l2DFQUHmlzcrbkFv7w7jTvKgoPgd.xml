@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Info>
-    <Category UUID="Deployment_Category_95ce0672-39c9-433d-98c3-cf38c16529d9">
-        <Label UUID="Deployment_ExeIconFile_95ce0672-39c9-433d-98c3-cf38c16529d9"/>
-        <Label UUID="Deployment_InstallerSplashFile_95ce0672-39c9-433d-98c3-cf38c16529d9"/>
-        <Label UUID="Deployment_InstallerIconFile_95ce0672-39c9-433d-98c3-cf38c16529d9"/>
-        <Label UUID="Deployment_InstalerLogoFile_95ce0672-39c9-433d-98c3-cf38c16529d9"/>
-    </Category>
-</Info>
