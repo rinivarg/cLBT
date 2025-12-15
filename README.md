@@ -103,7 +103,7 @@ The output folder contains the following files: <br>
 - **00b_TrialWise_Report_LBT_`[ID_sex]`.txt**<br>This file containts the trial-wise absolute (in a.u.) and percent deviations across all trials. The trial-wise file also outputs two additional variables: WorkspaceX and WorkspaceY. These two variables define the quadrant in which the line appeared. For example, ***left*** (WorkspaceX) and ***bottom*** (WorkspaceY).<br>
 - **LBT_`[ID_sex]`.mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
 - **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the mean and sd of percent deviation from the center, [NEW measure] the enpoint weights and weighting bias, and the total time taken to complete the test.<br>
-- **LBT_[ID_Sex_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.
+- **LBT_[`ID_sex`_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.
 
 See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/master/example/LBT_051020rv_F)
 ****
