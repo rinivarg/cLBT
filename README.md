@@ -120,16 +120,16 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 ****
 </details> 
 
+## Acknowledgements
+Thank you to early users and testers of this app: Jonathan Tsay, Evrim Gökçe, and DJ Eversley. Their feedback made this better! 
+
 ## Questions/Comments?<br>
 - If you have any questions or suggestions for improvement, please post them through [![Issues](https://img.shields.io/github/issues/rinivarg/cLBT)](https://github.com/rinivarg/cLBT/issues/new)<br>
 - You can also contact the first author directly at rvarghe9@jhmi.edu <br>
-- Source code available upon request. <br>
+- Source code is available upon request. <br>
 
 ## References<br>
 1. **Schenkenberg T, Bradford DC, Ajax ET.** [Line bisection and unilateral visual neglect in patients with neurologic impairment.](https://github.com/rinivarg/cLBT/blob/master/LBT_Schenkenberg_1980.pdf) *Neurology.* 1980;30:509–17. 
-
-## Acknowledgements
-Thank you to early users and testers of this app: Jonathan Tsay, Evrim Gökçe, and DJ Eversley. Their feedback made this better! 
 
 ## How to cite this?
 **Varghese, R, Ma, J, and, Winstein CJ.** (June 2, 2020). A Computerized Version of the Line Bisection Test (v.1.2). GitHub. GitHub repository: https://github.com/rinivarg/cLBT/#667c1f6
