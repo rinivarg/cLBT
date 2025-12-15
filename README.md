@@ -1,5 +1,6 @@
-[![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)
+[![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://reporter.nih.gov/search/iA_6O9h_r0aejFxqtjB8dg/project-details/9905315)
+[![Funding](https://img.shields.io/badge/NIH-T32HD007414-blue)](https://reporter.nih.gov/search/uL-lQMNH5U69FQcF6mvbig/project-details/11061238)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/rinivarg-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rinivarg/)
 
 # LineTest: An Open-Source Digital Line Bisection Tool (cLBT)
 *[Rini Varghese](https://github.com/rinivarg), [Jasmine Ma](https://github.com/Jasmine77766), [Carolee Winstein](https://github.com/cwinstein)*<br>
@@ -128,7 +129,7 @@ See here for an [example data folder](https://github.com/rinivarg/cLBT/tree/mast
 1. **Schenkenberg T, Bradford DC, Ajax ET.** [Line bisection and unilateral visual neglect in patients with neurologic impairment.](https://github.com/rinivarg/cLBT/blob/master/LBT_Schenkenberg_1980.pdf) *Neurology.* 1980;30:509–17. 
 
 ## Acknowledgements
-Thank you to early users and testers of this app: Jonathan Tsay, Evrim Gökçe, and DJ Eversley. Your feedback made this better! 
+Thank you to early users and testers of this app: Jonathan Tsay, Evrim Gökçe, and DJ Eversley. Their feedback made this better! 
 
 ## How to cite this?
 **Varghese, R, Ma, J, and, Winstein CJ.** (June 2, 2020). A Computerized Version of the Line Bisection Test (v.1.2). GitHub. GitHub repository: https://github.com/rinivarg/cLBT/#667c1f6
