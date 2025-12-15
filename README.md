@@ -75,7 +75,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		(3) **Enter Number of Trials.**
 			A default value of 20 appears but you can change this. Use any whole number starting from 1. <br>
 			Click **OK**. <br><br>
-4) NEW Feature! Next, you will have the option to randomize the workspace locations as well as the lengths of the lines.
+4) NEW Feature! Next, you will have the option to randomize the workspace locations as well as the lengths of the lines.<br>
 <img src="images/rand_len_pos.png" width = "300"><br><br>
 5) Next, you will be prompted to ***Select*** a location to save your output files. 
 		<img src="images/output_fld_v2.png" width = "400"><br><br>
