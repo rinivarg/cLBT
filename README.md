@@ -87,7 +87,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 		<img src="images/summ_fig_v2.png" width = "400"><br><br>
 9) You will also see a *Thank you* message. The app will close when you close these windows.
 		<img src="images/thank_you.png" width = "400"><br><br>
-10) Your output data folder is saved at the destination that you indicated at the start of the test and will be named: **LBT_[ID_Sex]**<br>
+10) Your output data folder is saved at the destination that you indicated at the start of the test and will be named: **LBT_`[ID_sex]`**<br>
 
 
 ****
@@ -99,9 +99,9 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 	
 The output folder contains the following files: <br>
 - **00a_LBT_summary.tiff**<br>This is the summary image file that you see at the end of the test.<br>
-- **00b_Average_Report_LBT_[ID_Sex].txt**<br>This file contains the average absolute and percent deviation across all trials. It also contains the total time taken to complete the test (in seconds). <br>
-- **00b_TrialWise_Report_LBT_[ID_Sex].txt**<br>This file containts the trial-wise absolute (in a.u.) and percent deviations across all trials. The trial-wise file also outputs two additional variables: WorkspaceX and WorkspaceY. These two variables define the quadrant in which the line appeared. For example, ***left*** (WorkspaceX) and ***bottom*** (WorkspaceY).<br>
-- **LBT_[ID_Sex].mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
+- **00b_Average_Report_LBT_`[ID_sex]`.txt**<br>This file contains the average absolute and percent deviation across all trials. It also contains the total time taken to complete the test (in seconds). <br>
+- **00b_TrialWise_Report_LBT_`[ID_sex]`.txt**<br>This file containts the trial-wise absolute (in a.u.) and percent deviations across all trials. The trial-wise file also outputs two additional variables: WorkspaceX and WorkspaceY. These two variables define the quadrant in which the line appeared. For example, ***left*** (WorkspaceX) and ***bottom*** (WorkspaceY).<br>
+- **LBT_`[ID_sex]`.mat**<br>Contains raw trial-wise data with x and y cursor position data. Note that you will only be able to open this file if you have MATLAB installed on your machine.<br>
 - **log_[mm-dd-yyyy-hh-mm].txt**<br>Log file containing outputs from the MATLAB command window. Will contain any errors in running the app. If no errors, it will report the mean and sd of percent deviation from the center, [NEW measure] the enpoint weights and weighting bias, and the total time taken to complete the test.<br>
 - **LBT_[ID_Sex_trial#].jpeg**<br> Low-res image files for each trial showing participant performance.
 
