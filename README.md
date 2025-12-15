@@ -70,7 +70,7 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 
 <table>
 <tr>
-<td><img src="images/data_name_v2.png" width="500"></td>
+<td><img src="images/data_name_v2.png" width="300"></td>
 <td>
 
 **(1) Enter a Participant `ID`.**  
