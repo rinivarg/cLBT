@@ -68,10 +68,10 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 2) You should see a *Welcome* message.
 3) After you click **OK**, a dialog box appears asking for 3 required inputs:
 
-<table>
+<table style="border: none;">
 <tr>
-<td><img src="images/data_name_v2.png" width="300"></td>
-<td>
+<td style="border: none;"><img src="images/data_name_v2.png" width="300"></td>
+<td style="border: none;">
 
 **(1) Enter a Participant `ID`.**  
 This ID will be the unique identifiers for your data in the output files and folder.
