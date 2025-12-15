@@ -68,10 +68,10 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 2) You should see a *Welcome* message.
 3) After you click **OK**, a dialog box appears asking for 3 required inputs:<br>
 		<img src="images/data_name_v2.png" width = "200"><br>
-		(1) **Enter a Participant ID.**
+		(1) **Enter a Participant `ID`.**
 			This ID will be the unique identifiers for your data in the output files and folder. <br>
-		(2) **Enter Sex.**
-			Provide a single letter, this string will be appended to the Participant ID in your data output file. <br>
+		(2) **Enter `sex`.**
+			Provide a single letter, this string will be appended to the `ID` in your data output file. <br>
 		(3) **Enter Number of Trials.**
 			A default value of 20 appears but you can change this. Use any whole number starting from 1. <br>
 			Click **OK**. <br><br>
