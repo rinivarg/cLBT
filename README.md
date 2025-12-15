@@ -66,15 +66,25 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 	
 1) Open the app. Note that sometimes the app takes a few seconds to open up. Please be patient.
 2) You should see a *Welcome* message.
-3) After you click **OK**, a dialog box appears asking for 3 required inputs:<br>
-		<img src="images/data_name_v2.png" width = "200"><br>
-		(1) **Enter a Participant `ID`.**
-			This ID will be the unique identifiers for your data in the output files and folder. <br>
-		(2) **Enter `sex`.**
-			Provide a single letter, this string will be appended to the `ID` in your data output file. <br>
-		(3) **Enter Number of Trials.**
-			A default value of 20 appears but you can change this. Use any whole number starting from 1. <br>
-			Click **OK**. <br><br>
+3) After you click **OK**, a dialog box appears asking for 3 required inputs:
+
+<table>
+<tr>
+<td><img src="images/data_name_v2.png" width="500"></td>
+<td>
+
+**(1) Enter a Participant `ID`.**  
+This ID will be the unique identifiers for your data in the output files and folder.
+
+**(2) Enter `sex`.**  
+Provide a single letter, this string will be appended to the `ID` in your data output file.
+
+**(3) Enter Number of Trials.**  
+A default value of 20 appears but you can change this. Use any whole number starting from 1.
+
+</td>
+</tr>
+</table>
 4) NEW Feature! Next, you will have the option to randomize the workspace locations as well as the lengths of the lines.<br>
 <img src="images/rand_len_pos.png" width = "300"><br><br>
 5) Next, you will be prompted to ***Select*** a location to save your output files. 
