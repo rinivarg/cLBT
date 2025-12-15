@@ -1,0 +1,26 @@
+Axis dimensions: 1116.0 x 733.5 pixels
+Trial 1: Bisection at x=0.3524 (center=0.3500, dev=2.7px) [direct_intersection]
+Trial 2: Bisection at x=0.7512 (center=0.8000, dev=-54.5px) [closest_point]
+Trial 3: Bisection at x=0.3405 (center=0.3500, dev=-10.6px) [direct_intersection]
+Trial 4: Bisection at x=0.6532 (center=0.6500, dev=3.6px) [direct_intersection]
+Trial 5: Bisection at x=0.7478 (center=0.8000, dev=-58.2px) [direct_intersection]
+Trial 6: Bisection at x=0.1978 (center=0.2000, dev=-2.5px) [direct_intersection]
+Trial 7: Bisection at x=0.7290 (center=0.8000, dev=-79.2px) [direct_intersection]
+Trial 8: Bisection at x=0.4996 (center=0.5000, dev=-0.4px) [direct_intersection]
+Trial 9: Bisection at x=0.4953 (center=0.5000, dev=-5.2px) [direct_intersection]
+Trial 10: Bisection at x=0.2315 (center=0.2000, dev=35.1px) [closest_point]
+Trial 11: Bisection at x=0.6353 (center=0.6500, dev=-16.4px) [closest_point]
+Trial 12: Bisection at x=0.2034 (center=0.2000, dev=3.8px) [direct_intersection]
+Trial 13: Bisection at x=0.6496 (center=0.6500, dev=-0.4px) [closest_point]
+Trial 14: Bisection at x=0.7721 (center=0.8000, dev=-31.1px) [direct_intersection]
+Trial 15: Bisection at x=0.7637 (center=0.8000, dev=-40.5px) [closest_point]
+Trial 16: Bisection at x=0.7464 (center=0.8000, dev=-59.8px) [closest_point]
+Trial 17: Bisection at x=0.6443 (center=0.6500, dev=-6.4px) [closest_point]
+Trial 18: Bisection at x=0.3665 (center=0.3500, dev=18.4px) [weighted_average]
+Trial 19: Bisection at x=0.3719 (center=0.3500, dev=24.4px) [direct_intersection]
+Trial 20: Bisection at x=0.6995 (center=0.8000, dev=-112.2px) [direct_intersection]
+Endpoint weights: Left = 0.512, Right = 0.500
+Endpoint Weighting Bias (EWB): -0.012
+    0.8860    2.8092
+
+274.2318 seconds

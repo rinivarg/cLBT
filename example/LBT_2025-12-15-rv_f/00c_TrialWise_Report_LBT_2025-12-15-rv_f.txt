@@ -1,0 +1,21 @@
+PID,Trial,Real Center,Abs_Dev,Perc_Dev,WorkspaceX,WorkspaceY
+rv,trial1,0.35,0.002,0.8,left-center,middle
+rv,trial2,0.8,0.001,0.48,right,middle
+rv,trial3,0.35,-0.01,-3.81,left-center,middle
+rv,trial4,0.65,0.003,1.08,right-center,middle
+rv,trial5,0.8,-0.002,-0.88,right,middle
+rv,trial6,0.2,-0.002,-1.12,left,middle
+rv,trial7,0.8,0.004,1.46,right,middle
+rv,trial8,0.5,-0,-0.19,center,middle
+rv,trial9,0.5,-0.005,-1.16,center,middle
+rv,trial10,0.2,0.006,2.88,left,middle
+rv,trial11,0.65,0.01,2.75,right-center,middle
+rv,trial12,0.2,0.003,1.7,left,top
+rv,trial13,0.65,-0,-0.1,right-center,middle
+rv,trial14,0.8,-0.003,-1.29,right,top
+rv,trial15,0.8,0.014,5.5,right,top
+rv,trial16,0.8,0.021,7.79,right,top
+rv,trial17,0.65,0.019,5.14,right-center,top
+rv,trial18,0.35,-0.009,-2.27,left-center,top
+rv,trial19,0.35,-0.003,-0.84,left-center,middle
+rv,trial20,0.8,-0.001,-0.18,right,middle

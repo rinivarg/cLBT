@@ -79,15 +79,15 @@ On a Mac, you can go to	*System Preferences > Security & Privacy* and clicking o
 <img src="images/rand_len_pos.png" width = "300"><br><br>
 5) Next, you will be prompted to ***Select*** a location to save your output files. 
 		<img src="images/output_fld_v2.png" width = "400"><br><br>
-5) Once you have selected your desired location, you will see the instructions for the task:<br>
-		<img src="images/instr_v2.png" width = "400"><br><br>
-6) Draw a short vertical line to indicate your response (see below):<br>
+6) Once you have selected your desired location, you will see the instructions for the task:<br>
+		<img src="images/instr_v2.png" width = "500"><br><br>
+7) Draw a short vertical line to indicate your response (see below):<br>
 		<img src="images/crosshair_v2.png" width = "400"><br><br>
-7) After you have completed all the trials, you will see a summary figure (see below).<br>
+8) After you have completed all the trials, you will see a summary figure (see below).<br>
 		<img src="images/summ_fig_v2.png" width = "400"><br><br>
-8) You will also see a *Thank you* message. The app will close when you close these windows.
+9) You will also see a *Thank you* message. The app will close when you close these windows.
 		<img src="images/thank_you.png" width = "400"><br><br>
-9) Your output data folder is saved at the destination that you indicated at the start of the test and will be named: **LBT_[ID_Sex]**<br>
+10) Your output data folder is saved at the destination that you indicated at the start of the test and will be named: **LBT_[ID_Sex]**<br>
 
 
 ****
